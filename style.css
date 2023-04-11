@@ -31,7 +31,6 @@ nav {
   nav a.active {
     color: #0099cc;
   }
-  
   /* Media Queries */
   @media only screen and (max-width: 767px) {
     nav ul {
