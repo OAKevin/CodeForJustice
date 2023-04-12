@@ -1,0 +1,29 @@
+.mainlawn{
+    font-weight: bold;
+    text-align: center;
+    font-size: 2.5rem;
+}
+p{
+    font-size: 1rem;
+    line-height: 1.5;
+    word-wrap: break-word;
+}
+.video{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.video video{
+    max-width: 100%;
+    height: auto;
+}
+.picture{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: ;
+}
+.picture img{
+    grid-column-start: 2;
+    max-width: 100%;
+    height: auto;
+}
+
